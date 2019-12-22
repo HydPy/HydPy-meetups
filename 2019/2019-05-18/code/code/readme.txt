@@ -1,0 +1,2 @@
+1. Run the prepare_data.sh. Ensure that the train.csv, test.csv, user_features.csv is located at ../Data folder and prepare_data.py in the current folder.
+2. Run train.py (it will take apprx 200 GB RAM)
