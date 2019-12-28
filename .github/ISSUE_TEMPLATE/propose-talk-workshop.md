@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<!-- This template is about submitting talk/workshop proposals for HydPy Monthly meetups. Please fill all the relevant fields. We will use this data to arrange Talks/Workshops whenever or wherever opportunities arise. For any questions, please write to hydpy@python.org mailing list.
+<!-- This template is about submitting talk/workshop proposals for HydPy Monthly meetups. Please fill all the relevant fields below. We will use this data to arrange Talks/Workshops whenever or wherever opportunities arise. For any questions, please write to hydpy@python.org mailing list.
 
 One can submit a talk on anything related to Python or Open Source and below are the list of categories -
 
@@ -23,14 +23,14 @@ One can submit a talk on anything related to Python or Open Source and below are
 10. Networking and Security - Network Programming, Network Security and Encryption
 11. Others - Everything else that may be of interest to the audience-->
 
-**Title of the talk**
+**Title of the talk/workshop**
 <!-- Please include a short title -->
 
 **Abstract of the talk/workshop**
 <!-- please include the abstract of the talk -->
 
-**Description**
-<!-- Please include brief abstract about your talk. -->
+**Category of the talk/workshop**
+<!-- please include the abstract of the talk -->
 
 **Duration (including Q&A)**
 <!-- Please add the estimated duration of the talk including Q&A -->
@@ -46,7 +46,7 @@ One can submit a talk on anything related to Python or Open Source and below are
 4. Years of Exp
  -->
 
-**Prerequisites**
+**Prerequisites(if any)**
 <!-- If you have any specific requirement from audience -->
 <!-- for the talk i.e. software, tools set up on machine etc, please -->
 <!-- include it here -->
