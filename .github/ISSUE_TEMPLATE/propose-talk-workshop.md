@@ -30,7 +30,7 @@ One can submit a talk on anything related to Python or Open Source and below are
 <!-- please include the abstract of the talk -->
 
 **Category of the talk/workshop**
-<!-- please include the abstract of the talk -->
+<!-- please include the category of the talk -->
 
 **Duration (including Q&A)**
 <!-- Please add the estimated duration of the talk including Q&A -->
