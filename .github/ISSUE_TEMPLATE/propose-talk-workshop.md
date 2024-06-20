@@ -11,16 +11,16 @@ assignees: ''
 
 One can submit a talk on anything related to Python or Open Source and below are the list of categories -
 
-1. Game Design and 3D Modelling - Python in developing games, 3-D modelling and animation
-2. Embedded Python and IOT - MicroPython, Python on Hardware, Robotics, Arduino and Raspberry Pi
-3. Culture and society - Diversity, health, productivity, workspace issues, privacy, community building, coding for causes
-4. Core Python - Language Features, Python Implementations, Extending Python and Standard Library, language internals
-5. Data Science, Machine Learning, and AI
-6. Desktop Applications - Qt, GTK+, Tkinter, Gnome, KDE, Accessibility
-7. Scientific Computing - Python usage in scientific computing and research. GIS, Mathematics, Simulations
-8. Developer tools and automation - Testing, CI/CD, Containers, Orchestration, Logging and Monitoring, Cloud, SRE
-9. Web development - Web, Apis, Microservices
-10. Networking and Security - Network Programming, Network Security and Encryption
+1. Game Design and 3D Modelling - Python in developing games, 3-D modelling and animation-
+2. Embedded Python and IOT - MicroPython, Python on Hardware, Robotics, Arduino and Raspberry Pi-
+3. Culture and society - Diversity, health, productivity, workspace issues, privacy, community building, coding for causes-
+4. Core Python - Language Features, Python Implementations, Extending Python and Standard Library, language internals-
+5. Data Science, Machine Learning, and AI-
+6. Desktop Applications - Qt, GTK+, Tkinter, Gnome, KDE, Accessibility-
+7. Scientific Computing - Python usage in scientific computing and research. GIS, Mathematics, Simulations-
+8. Developer tools and automation - Testing, CI/CD, Containers, Orchestration, Logging and Monitoring, Cloud, SRE-
+9. Web development - Web, Apis, Microservices-
+10. Networking and Security - Network Programming, Network Security and Encryption-
 11. Others - Everything else that may be of interest to the audience-->
 
 **Title of the talk/workshop**
@@ -39,12 +39,12 @@ One can submit a talk on anything related to Python or Open Source and below are
 <!-- Please specify the level of audience - Begineer/Internediate/Advance -->
 
 **Speaker Bio**
-<!-- Please do include the following things
-1. Speaker Bio (Brief)
-2. Company/College
-3. Email
-4. Years of Exp
- -->
+<!-- Please do include the following things-
+1. Speaker Bio (Brief)-
+2. Company/College-
+3. Email-
+4. Years of Exp -->
+
 
 **Prerequisites(if any)**
 <!-- If you have any specific requirement from audience -->
