@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "nanoagents"
+version = "0.1.0"
+description = "A nano, minimalistic, and lightweight library for building ReACT-based AI agents that use tools to solve tasks."
+authors = ["tnahddisttud <siddhantp73@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
