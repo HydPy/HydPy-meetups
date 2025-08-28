@@ -33,7 +33,7 @@ We captured some great memories—relive the moments and don’t forget to tag u
 
 🔗 [View Photos](https://photos.google.com/share/AF1QipNCyYONxF9hRqVg99PCsE-ub9kJQq4v_rYwm1zN-wRx1OTgLS4BZnHmpFTO4DkIMg?key=SFZhbW5iRWZ5NGlMbnotSjdXZnFBbDZZQzlEazJn)
 
-📷 Group Photo: *[Download Here](2025/meetup-aug/2025_aug_group_photo.jpg)*
+📷 Group Photo: *[Download Here](https://github.com/HydPy/HydPy-meetups/blob/master/2025/meetup-aug/2025_aug_group_photo.jpg)*
 
 ---
 
